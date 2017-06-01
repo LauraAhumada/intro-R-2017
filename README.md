@@ -1,2 +1,1 @@
-# oficineiRos
-Introdução à linguagem R oferecida no Permacultura Lab
+Oficina de introdução à linguagem R oferecida pelo Permacultura Lab
